@@ -1,4 +1,4 @@
-# health-care-ui
+# rent-car-ui
 
 ## Project setup
 ```
